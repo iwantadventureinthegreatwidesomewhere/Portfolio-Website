@@ -4,7 +4,7 @@
     "occupation":"Software Developer",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I’m a junior software developer with experience working on the full stack of multiple software products. For front-end, I’ve primarily worked with React Native for constructing mobile apps, and now am exploring native development for iOS and Android. For back-end, I’ve worked on Java micro services during internships and have developed my own back-ends with AWS + MongoDB, including user auth, REST APIs, and data and asset storage. I’ve also worked in an assortment of other fields, from supervised learning and neural networks for machine learning projects, to UI/UX designing of logos, glyphs, marketing material with Sketch.",
     "contactmessage":"Let's get in touch!",
     "email": "marcoguida724@gmail.com",
     "phone": "514-895-7506",

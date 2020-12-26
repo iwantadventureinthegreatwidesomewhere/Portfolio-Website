@@ -692,10 +692,10 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-  background: #191919;
+  background: #000231;
   padding-top: 96px;
   padding-bottom: 102px;
-  color: #636363;
+  color: #ebeeee;
 }
 #contact .section-head {
   margin-bottom: 42px;
@@ -703,7 +703,7 @@ call-to-action .button {
 
 #contact a,
 #contact a:visited {
-  color: #11abb0;
+  color: #00cccc;
 }
 #contact a:hover,
 #contact a:focus {
@@ -761,7 +761,7 @@ call-to-action .button {
 #contact select {
   padding: 18px 20px;
   color: #eee;
-  background: #373233;
+  background: #0f1953;
   margin-bottom: 42px;
   border: 0;
   outline: none;
@@ -773,7 +773,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
   color: #fff;
-  background-color: #11abb0;
+  background-color: #00cccc;
 }
 #contact button.submit {
   text-transform: uppercase;
@@ -792,7 +792,7 @@ call-to-action .button {
   background: #fff;
 }
 #contact span.required {
-  color: #11abb0;
+  color: #00cccc;
   font-size: 13px;
 }
 #message-warning,
@@ -808,7 +808,7 @@ call-to-action .button {
   color: #d72828;
 }
 #message-success {
-  color: #11abb0;
+  color: #00cccc;
 }
 
 #message-warning i,
@@ -897,7 +897,7 @@ footer .social-links li {
   margin: 0;
   padding: 0;
   margin-left: 42px;
-  color: #f06000;
+  color: #00cccc;
 }
 
 footer .social-links li:first-child {
@@ -931,5 +931,5 @@ footer .social-links li:first-child {
   border-radius: 100%;
 }
 #go-top a:hover {
-  background-color: #0f9095;
+  background-color: #00cccc;
 }
