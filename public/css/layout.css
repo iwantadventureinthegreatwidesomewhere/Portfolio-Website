@@ -61,7 +61,7 @@ header .banner-text {
   width: 100%;
 }
 header .banner-text h1 {
-  font: 90px/1.1em "opensans-bold", sans-serif;
+  font: 90px/1.1em "avenir-heavy";
   color: #fff;
   letter-spacing: -2px;
   margin: 0 auto 18px auto;
@@ -69,7 +69,7 @@ header .banner-text h1 {
   font-size: 20px;
 }
 header .banner-text h3 {
-  font: 18px/1.9em "librebaskerville-regular", serif;
+  font: 18px/1.9em "avenir-heavy";
   color: #a8a8a8;
   width: 70%;
   text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
@@ -140,7 +140,7 @@ header .scrolldown a:hover {
 
 /* nav-wrap */
 #nav-wrap {
-  font: 12px "opensans-bold", sans-serif;
+  font: 12px "avenir-heavy";
   width: 100%;
   text-transform: uppercase;
   letter-spacing: 2.5px;
@@ -219,7 +219,7 @@ ul#nav li.current a {
 }
 
 #about h2 {
-  font: 22px/30px "opensans-bold", sans-serif;
+  font: 22px/30px "avenir-heavy";
   color: #fff;
   margin-bottom: 12px;
 }
@@ -277,7 +277,7 @@ ul#nav li.current a {
 }
 
 #resume h1 {
-  font: 18px/24px "opensans-bold", sans-serif;
+  font: 18px/24px "avenir-heavy";
   text-transform: uppercase;
   letter-spacing: 1px;
 }
@@ -286,7 +286,7 @@ ul#nav li.current a {
   padding-bottom: 6px;
 }
 #resume h3 {
-  font: 25px/30px "opensans-bold", sans-serif;
+  font: 25px/30px "avenir-heavy";
 }
 
 #resume .header-col {
@@ -303,7 +303,7 @@ ul#nav li.current a {
   border-bottom: 1px solid #e8e8e8;
 }
 #resume .info {
-  font: 16px/24px "librebaskerville-italic", serif;
+  font: 16px/24px "avenir-heavy";
   color: #6e7881;
   margin-bottom: 18px;
   margin-top: 9px;
@@ -313,7 +313,7 @@ ul#nav li.current a {
   margin-left: 5px;
 }
 #resume .date {
-  font: 15px/24px "opensans-regular", sans-serif;
+  font: 15px/24px "avenir-medium";
   margin-top: 6px;
 }
 
@@ -339,7 +339,7 @@ ul#nav li.current a {
   border-radius: 3px;
 }
 .bars li em {
-  font: 15px "opensans-bold", sans-serif;
+  font: 15px "avenir-heavy";
   color: #313131;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -458,7 +458,7 @@ ul#nav li.current a {
   padding-bottom: 60px;
 }
 #portfolio h1 {
-  font: 15px/24px "opensans-semibold", sans-serif;
+  font: 15px/24px "avenir-heavy";
   text-transform: uppercase;
   letter-spacing: 1px;
   text-align: center;
@@ -536,11 +536,11 @@ ul#nav li.current a {
   padding: 18px;
 }
 .portfolio-item .portfolio-item-meta h5 {
-  font: 14px/21px "opensans-bold", sans-serif;
+  font: 14px/21px "avenir-heavy";
   color: #fff;
 }
 .portfolio-item .portfolio-item-meta p {
-  font: 12px/18px "opensans-light", sans-serif;
+  font: 12px/18px "avenir-light";
   color: #c6c7c7;
   margin-bottom: 0;
 }
@@ -568,17 +568,17 @@ ul#nav li.current a {
   padding: 12px 36px 18px 36px;
 }
 .popup-modal .description-box h4 {
-  font: 15px/24px "opensans-bold", sans-serif;
+  font: 15px/24px "avenir-heavy";
   margin-bottom: 12px;
   color: #111;
 }
 .popup-modal .description-box p {
-  font: 14px/24px "opensans-regular", sans-serif;
+  font: 14px/24px "avenir-medium";
   color: #a1a1a1;
   margin-bottom: 12px;
 }
 .popup-modal .description-box .categories {
-  font: 11px/21px "opensans-light", sans-serif;
+  font: 11px/21px "avenir-light";
   color: #a1a1a1;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -595,7 +595,7 @@ ul#nav li.current a {
 }
 .popup-modal .link-box a {
   color: #fff;
-  font: 11px/21px "opensans-bold", sans-serif;
+  font: 11px/21px "avenir-heavy";
   text-transform: uppercase;
   letter-spacing: 3px;
   cursor: pointer;
@@ -638,7 +638,7 @@ ul#nav li.current a {
   padding-bottom: 48px;
 }
 #call-to-action h1 {
-  font: 18px/24px "opensans-bold", sans-serif;
+  font: 18px/24px "avenir-heavy";
   text-transform: uppercase;
   letter-spacing: 3px;
   color: #fff;
@@ -660,7 +660,7 @@ ul#nav li.current a {
   margin-top: 12px;
 }
 #call-to-action h2 {
-  font: 28px/36px "opensans-bold", sans-serif;
+  font: 28px/36px "avenir-heavy";
   color: #ebeeee;
   margin-bottom: 6px;
 }
@@ -683,7 +683,7 @@ call-to-action .button {
   color: #0d0d0d;
 }
 #call-to-action p span {
-  font-family: "opensans-semibold", sans-serif;
+  font-family: "avenir-heavy";
   color: #d8d8d8;
 }
 
@@ -694,7 +694,7 @@ call-to-action .button {
 footer {
   padding-top: 48px;
   margin-bottom: 48px;
-  color: #303030;
+  color: #f50404;
   font-size: 14px;
   text-align: center;
   position: relative;
@@ -702,35 +702,11 @@ footer {
 
 footer a,
 footer a:visited {
-  color: #525252;
+  color: #fff;
 }
 footer a:hover,
 footer a:focus {
-  color: #fff;
-}
-
-/* copyright */
-footer .copyright {
-  margin: 0;
-  padding: 0;
-}
-footer .copyright li {
-  display: inline-block;
-  margin: 0;
-  padding: 0;
-  line-height: 24px;
-}
-.ie footer .copyright li {
-  display: inline;
-}
-footer .copyright li:before {
-  content: "\2022";
-  padding-left: 10px;
-  padding-right: 10px;
-  color: #095153;
-}
-footer .copyright li:first-child:before {
-  display: none;
+  color: #00cccc;
 }
 
 /* social links */
