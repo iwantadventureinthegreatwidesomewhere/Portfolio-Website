@@ -32,30 +32,24 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
+        "school":"McGill University",
+        "degree":"B.S. Computer Science",
+        "graduated":"2017 - Present",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
+        "company":"Agility PR Solutions",
+        "title":"Angular Front-End Developer Intern",
+        "years":"May 2020 - August 2020",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Joyleaf",
+        "title":"Founder",
+        "years":"February 2019 - September 2019",
+        "description":"The cannabis industry is one of few that has severely lagged in tech, in large part due to legal complications. With more and more countries legalizing marijuana, consumers want a simple and intuitive experience to finding cannabis perfect for them, both for recreational and medical purposes. Joyleaf is that experience.\nJoyleaf is a strain finder app on iOS and Android that lets you discover over 2,000 unique marijuana strains from around the world so you can find cannabis perfect for you.\nI led a team of three other developers, who primarily worked on front-end development and algorithm design for our REST API.\nI used Xamarin Forms, a .NET cross-platform UI framework, to deliver a smooth, native, front-end experience for both iOS and Android, with a C#-shared codebase to boost development workflow.\nI developed the back-end with Firebase in order to authenticate users, store app data, and host a REST API.\nI also used Sketch and Photoshop to design all the visual components, including the app icon, splash screens, promotional media, and all the glyphs in the app."
       }
     ],
     "skills":[

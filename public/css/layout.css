@@ -215,7 +215,7 @@ ul#nav li.current a {
 }
 #about a:hover,
 #about a:focus {
-  color: #11abb0;
+  color: #00cccc;
 }
 
 #about h2 {
@@ -245,11 +245,11 @@ ul#nav li.current a {
 }
 #about .download .button {
   margin-top: 6px;
-  background: #444;
+  background: #0b43ba;
 }
 #about .download .button:hover {
   background: #fff;
-  color: #2b2b2b;
+  color: #0b43ba;
 }
 #about .download .button i {
   margin-right: 15px;
@@ -269,11 +269,11 @@ ul#nav li.current a {
 
 #resume a,
 #resume a:visited {
-  color: #11abb0;
+  color: #00cccc;
 }
 #resume a:hover,
 #resume a:focus {
-  color: #313131;
+  color: #000231;
 }
 
 #resume h1 {
@@ -282,7 +282,7 @@ ul#nav li.current a {
   letter-spacing: 1px;
 }
 #resume h1 span {
-  border-bottom: 3px solid #11abb0;
+  border-bottom: 3px solid #000231;
   padding-bottom: 6px;
 }
 #resume h3 {
@@ -304,7 +304,7 @@ ul#nav li.current a {
 }
 #resume .info {
   font: 16px/24px "avenir-heavy";
-  color: #6e7881;
+  color: #000231;
   margin-bottom: 18px;
   margin-top: 9px;
 }
@@ -334,13 +334,13 @@ ul#nav li.current a {
 .bars li {
   position: relative;
   margin-bottom: 60px;
-  background: #ccc;
+  background: #000231;
   height: 42px;
   border-radius: 3px;
 }
 .bars li em {
   font: 15px "avenir-heavy";
-  color: #313131;
+  color: #000231;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: normal;
@@ -354,7 +354,7 @@ ul#nav li.current a {
 
   margin: 0;
   padding-right: 24px;
-  background: #313131;
+  background: #00cccc;
   display: inline-block;
   height: 42px;
   line-height: 42px;

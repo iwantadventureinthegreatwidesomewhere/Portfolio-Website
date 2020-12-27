@@ -241,7 +241,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #313131;
+  color: #0b43ba;
   font-family: "avenir-heavy";
   font-weight: normal;
 }
@@ -427,7 +427,7 @@ a,
 a:visited {
   text-decoration: none;
   outline: 0;
-  color: #11abb0;
+  color: #00cccc;
 
   -webkit-transition: color 0.3s ease-in-out;
   -moz-transition: color 0.3s ease-in-out;
@@ -436,7 +436,7 @@ a:visited {
 }
 a:hover,
 a:focus {
-  color: #313131;
+  color: #0b43ba;
 }
 p a,
 p a:visited {
@@ -522,10 +522,10 @@ li p {
   font-size: 22px;
   font-family: "avenir-heavy";
   border: none;
-  color: #313131;
+  color: #0b43ba;
 }
 .stats-tabs li a:hover {
-  color: #11abb0;
+  color: #00cccc;
 }
 .stats-tabs li a b {
   display: block;
@@ -541,7 +541,7 @@ dl {
 }
 dt {
   margin: 0;
-  color: #11abb0;
+  color: #00cccc;
 }
 dd {
   margin: 0 0 0 20px;
@@ -619,7 +619,7 @@ dd {
 }
 .pagination .current,
 .pagination .current:hover {
-  background-color: #11abb0;
+  background-color: #00cccc;
   color: #fff;
 }
 .pagination .inactive,
@@ -653,7 +653,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
   font: 16px/30px "avenir-heavy";
-  background: #11abb0;
+  background: #00cccc;
   display: inline-block;
   text-decoration: none;
   letter-spacing: 0;
