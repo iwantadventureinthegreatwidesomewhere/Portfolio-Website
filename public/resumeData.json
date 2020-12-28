@@ -2,18 +2,14 @@
   "main": {
     "name":"Marco Guida",
     "occupation":"Software Developer",
-    "description":"saddasdasdasd",
+    "description":"I’m a software developer with an entrepreneurial flare and am experienced in working across the full tech stack, especially for mobile. I’m objective-driven - I code because I love seeing my products used in the hands of people around the world.",
     "image":"profilepic.jpg",
-    "bio":"I’m a junior software developer with experience working on the full stack of multiple software products. For front-end, I’ve primarily worked with React Native for constructing mobile apps, and now am exploring native development for iOS and Android. For back-end, I’ve worked on Java micro services during internships and have developed my own back-ends with AWS + MongoDB, including user auth, REST APIs, and data and asset storage. I’ve also worked in an assortment of other fields, from supervised learning and neural networks for machine learning projects, to UI/UX designing of logos, glyphs, marketing material with Sketch.",
+    "bio":"I’m a junior software developer with experience working on the full stack of multiple software products. For front-end, I’ve primarily worked with React Native for constructing mobile apps, and now am exploring native development for iOS and Android. For back-end, I’ve worked on Java micro services during internships and have developed my own back-ends with AWS + MongoDB, including user auth, REST APIs, and data and asset storage. I’ve also worked in an assortment of other fields, from supervised learning and neural networks for machine learning projects, to UI/UX designing of logos, glyphs, marketing material with Sketch. Interested in connecting or collaborating? Let's get in touch!",
     "email": "marcoguida724@gmail.com",
     "phone": "514-895-7506",
     "address":{
-      "street":"(Your Street)",
-      "city":"Montreal",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Montreal"
     },
-    "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
@@ -29,7 +25,6 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
         "school":"McGill University",
