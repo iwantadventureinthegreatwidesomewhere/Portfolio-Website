@@ -2,9 +2,9 @@
   "main": {
     "name":"Marco Guida",
     "occupation":"Software Developer",
-    "description":"I’m a software developer with an entrepreneurial flare and am experienced in working across the full tech stack, especially for mobile. I’m objective-driven - I code because I love seeing my products used in the hands of people around the world.",
+    "description":"I’m a software developer with an entrepreneurial flair and am experienced in working across the full tech stack, especially for mobile. I’m objective-driven - I code because I love seeing my products used in the hands of people around the world.",
     "image":"profilepic.jpg",
-    "bio":"I’m a junior software developer with experience working on the full stack of multiple software products. For front-end, I’ve primarily worked with React Native for constructing mobile apps, and now am exploring native development for iOS and Android. For back-end, I’ve worked on Java micro services during internships and have developed my own back-ends with AWS + MongoDB, including user auth, REST APIs, and data and asset storage. I’ve also worked in an assortment of other fields, from supervised learning and neural networks for machine learning projects, to UI/UX designing of logos, glyphs, marketing material with Sketch. Interested in connecting or collaborating? Let's get in touch!",
+    "bio":"I’m a junior software developer with experience working across the full stack of multiple software products, primarily mobile. On front-end, I’ve used React.js and Angular to develop web apps and have worked even more so with React Native to build elegant mobile apps, some my own and others for companies I’ve worked with. I’m actively exploring pure native development for iOS and Android. Meanwhile on back-end, I’ve commonly used AWS (which includes API Gateway, Lambda, S3, Cognito, Elemental MediaConvert) + MongoDB for user authentication, my own RESTful APIs, and data and asset storage. I’ve also worked with a mix of other technologies, like MySQL, Java, and Firebase, for other back-ends. I enjoy working in an assortment of other fields as well, from supervised learning and neural networks for machine learning projects, to UI/UX design of logos, glyphs, and marketing material using Sketch app. Interested in connecting or collaborating? Let's get in touch!",
     "email": "marcoguida724@gmail.com",
     "phone": "514-895-7506",
     "address":{
@@ -37,7 +37,7 @@
         "company":"Agility PR Solutions",
         "title":"Angular Front-End Developer Intern",
         "years":"May 2020 - August 2020",
-        "description":null
+        "description":"I started my internship working on the development of web applications using Angular for Agility’s media outreach, monitoring, and measurement tools. The scope of my initial work involved the UI components for Agility’s targeting and monitoring platform, which included media briefings, search features, and graphical analysis tools (e.g. maps, charts). Further, I participated in an agile work environment through Atlassian's Jira project management tool.\nWithin a month, my responsibilities expanded to development across the full tech stack, which allowed me to contribute to robust RESTful API services made with Java as well as the architecture of a MySQL database. This provided me the opportunity to take full control of the implementation of brand new platform features, as I developed both their back-end and front-end pieces from start to finish. Additionally, I developed tools to improve the workflow of the back-end teams, which included Jenkins scripts for automated back-end deployment that reduced deployment times of new codebase changes from 30 minutes down to 5 minutes."
       },
       {
         "company":"Joyleaf",
@@ -55,6 +55,10 @@
     "skills":[
       {
         "name":"React Native",
+        "level":"85%"
+      },
+      {
+        "name":"Node.js",
         "level":"85%"
       },
       {
@@ -83,31 +87,31 @@
     "projects": [
       {
         "title":"Multi-Label Classification of Image Data",
-        "category":"Python neural network for modified MNIST",
+        "category":"Neural network for modified MNIST",
         "image":"ml.jpg",
         "url":"https://github.com/iwantadventureinthegreatwidesomewhere/Multi-Label-Classification-of-Image-Data"
       },
       {
         "title":"Multi-Class Logistic Regression and Gradient Descent",
-        "category":"Multi-class logistic regression Python model",
+        "category":"Multi-class logistic regression model",
         "image":"ml.jpg",
         "url":"https://github.com/iwantadventureinthegreatwidesomewhere/Multi-Class-Logistic-Regression-and-Gradient-Descent"
       },
       {
         "title":"Analyzing COVID-19 Search Trends and Hospitalization",
-        "category":"Python supervised learning for analyzing COVID-19",
+        "category":"Supervised learning for analyzing COVID-19",
         "image":"ml.jpg",
         "url":"https://github.com/iwantadventureinthegreatwidesomewhere/Analyzing-COVID-19-Search-Trends-and-Hospitalization"
       },
       {
         "title":"Joyleaf",
-        "category":"Xamarin Forms mobile application",
+        "category":"Cannabis strain finder mobile app for iOS and Android",
         "image":"joyleaf.jpg",
         "url":"https://github.com/iwantadventureinthegreatwidesomewhere/Joyleaf"
       },
       {
         "title":"PMI Chapter Event Scanner",
-        "category":"React Native mobile application",
+        "category":"PMI event check-in mobile app for iOS and Android",
         "image":"pmi.jpg",
         "url":"https://github.com/iwantadventureinthegreatwidesomewhere/PMI-Chapter-Event-Scanner"
       },
